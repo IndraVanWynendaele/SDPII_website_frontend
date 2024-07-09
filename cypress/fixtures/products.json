@@ -1,0 +1,280 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Chair",
+      "unitOfMeasureId": 1,
+      "categoryId": 1,
+      "productAvailability": 1,
+      "imageUrl": "https://www.gerowonen.be/media/39/25/df/1645550042/621519dac8c2b-V015-EVE-1018%20(2).png.png",
+      "enabled": 1,
+      "createdAt": "2024-03-27T14:57:24.000+00:00",
+      "updatedAt": "2024-03-27T14:57:24.000+00:00",
+      "supplierId": 1,
+      "category": {
+        "id": 1,
+        "name": "Office furniture"
+      },
+      "productPrice": [
+        {
+          "id": 1,
+          "productId": 1,
+          "currencyId": 1,
+          "price": "99.99",
+          "unitOfMeasureId": 1,
+          "quantity": 10,
+          "enabled": 1,
+          "createdAt": "2024-03-27T14:57:24.000+00:00",
+          "updatedAt": "2024-03-27T14:57:24.000+00:00"
+        }
+      ],
+      "productDescription": [
+        {
+          "id": 1,
+          "productId": 1,
+          "languageId": 2,
+          "listerDescription": "Upgrade your workspace with our ergonomic office chair. Designed for comfort and productivity, this chair features adjustable lumbar support, padded armrests, and a breathable mesh backrest. Enhance your workday with superior comfort and support.",
+          "shortDescription": "Ergonomic office chair with adjustable lumbar support, padded armrests, and breathable mesh backrest for ultimate comfort and productivity.",
+          "longDescription": "Maximize your comfort and productivity with our ergonomic office chair. Crafted for long hours of sitting, this chair features adjustable lumbar support, padded armrests, and a breathable mesh backrest. The ergonomic design ensures that you can maintain proper posture and reduce strain on your back, neck, and shoulders. Whether you're working on important projects or catching up on emails, our office chair offers the perfect blend of comfort and support. Upgrade your workspace and enhance your workday with superior comfort and productivity.",
+          "enabled": 1,
+          "createdAt": "2024-03-27T14:57:24.000+00:00",
+          "updatedAt": "2024-03-27T14:57:24.000+00:00"
+        }
+      ],
+      "supplier": {
+        "id": 1,
+        "accountId": 2,
+        "firstname": "Anke",
+        "lastname": "Hazen",
+        "email": "account@supplier.com",
+        "phoneNumber": "0495/12.34.56",
+        "enabled": null,
+        "createdAt": "2024-03-27T14:57:24.000+00:00",
+        "updatedAt": "2024-03-27T14:57:24.000+00:00"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Desk",
+      "unitOfMeasureId": 1,
+      "categoryId": 1,
+      "productAvailability": 1,
+      "imageUrl": "https://www.sosjm.com/images/thumbs/0000798_ht-mdk189-be-hitop-1800-x-1800-executive-desk-unit-bedg.png",
+      "enabled": 1,
+      "createdAt": "2024-03-27T14:57:24.000+00:00",
+      "updatedAt": "2024-03-27T14:57:24.000+00:00",
+      "supplierId": 1,
+      "category": {
+        "id": 1,
+        "name": "Office furniture"
+      },
+      "productPrice": [
+        {
+          "id": 2,
+          "productId": 2,
+          "currencyId": 1,
+          "price": "199.99",
+          "unitOfMeasureId": 1,
+          "quantity": 5,
+          "enabled": 1,
+          "createdAt": "2024-03-27T14:57:24.000+00:00",
+          "updatedAt": "2024-03-27T14:57:24.000+00:00"
+        }
+      ],
+      "productDescription": [
+        {
+          "id": 2,
+          "productId": 2,
+          "languageId": 2,
+          "listerDescription": "Optimize your workspace with our sleek and functional office desk. Designed for modern professionals, this desk features ample surface area for all your work essentials. With its minimalist design and sturdy construction, it's the perfect addition to any office or home workspace.",
+          "shortDescription": "Sleek and functional office desk with ample surface area for work essentials.",
+          "longDescription": "Maximize your productivity with our sleek and functional office desk. Crafted for modern professionals, this desk offers ample surface area for all your work essentials. The spacious desktop provides plenty of room for your computer, paperwork, and other office supplies, making it easy to stay organized and focused. The minimalist design and sturdy construction ensure that this desk is the perfect addition to any office or home workspace. Whether you're working on important projects or catching up on emails, our office desk offers the perfect blend of style and functionality. Optimize your workspace and elevate your workday with our sleek and functional office desk today.",
+          "enabled": 1,
+          "createdAt": "2024-03-27T14:57:24.000+00:00",
+          "updatedAt": "2024-03-27T14:57:24.000+00:00"
+        }
+      ],
+      "supplier": {
+        "id": 1,
+        "accountId": 2,
+        "firstname": "Anke",
+        "lastname": "Hazen",
+        "email": "account@supplier.com",
+        "phoneNumber": "0495/12.34.56",
+        "enabled": null,
+        "createdAt": "2024-03-27T14:57:24.000+00:00",
+        "updatedAt": "2024-03-27T14:57:24.000+00:00"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Copy Paper",
+      "unitOfMeasureId": 1,
+      "categoryId": 2,
+      "productAvailability": 0,
+      "imageUrl": "https://www.paperone.com/images/aprilhwm/aprilhwm_hero.png",
+      "enabled": 1,
+      "createdAt": "2024-03-27T14:57:24.000+00:00",
+      "updatedAt": "2024-03-27T14:57:24.000+00:00",
+      "supplierId": 1,
+      "category": {
+        "id": 2,
+        "name": "Office supplies"
+      },
+      "productPrice": [
+        {
+          "id": 3,
+          "productId": 3,
+          "currencyId": 1,
+          "price": "9.99",
+          "unitOfMeasureId": 1,
+          "quantity": 500,
+          "enabled": 1,
+          "createdAt": "2024-03-27T14:57:24.000+00:00",
+          "updatedAt": "2024-03-27T14:57:24.000+00:00"
+        }
+      ],
+      "productDescription": [
+        {
+          "id": 3,
+          "productId": 3,
+          "languageId": 2,
+          "listerDescription": "Stock up on essential office supplies with our premium copy paper. Designed for high-quality printing and copying, this paper ensures crisp and clear results every time. Whether you're printing reports, memos, or presentations, our copy paper delivers professional-grade performance.",
+          "shortDescription": "Premium copy paper for high-quality printing and copying.",
+          "longDescription": "Elevate your printing and copying experience with our premium copy paper. Engineered for exceptional performance, this paper is designed to deliver crisp, clear, and professional-grade results. Whether you're printing reports, memos, presentations, or other documents, our copy paper ensures that your work looks its best. The bright white color provides a clean and professional backdrop for text and images, making your documents easy to read and visually appealing. With its smooth surface and reliable performance, our copy paper is the perfect choice for all your office printing and copying needs. Stock up on this essential office supply and experience the difference in quality and performance.",
+          "enabled": 1,
+          "createdAt": "2024-03-27T14:57:24.000+00:00",
+          "updatedAt": "2024-03-27T14:57:24.000+00:00"
+        }
+      ],
+      "supplier": {
+        "id": 1,
+        "accountId": 2,
+        "firstname": "Anke",
+        "lastname": "Hazen",
+        "email": "account@supplier.com",
+        "phoneNumber": "0495/12.34.56",
+        "enabled": null,
+        "createdAt": "2024-03-27T14:57:24.000+00:00",
+        "updatedAt": "2024-03-27T14:57:24.000+00:00"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Ink",
+      "unitOfMeasureId": 1,
+      "categoryId": 2,
+      "productAvailability": 0,
+      "imageUrl": "https://m.media-amazon.com/images/I/61i8EqTrroL._AC_UF1000,1000_QL80_.jpg",
+      "enabled": 1,
+      "createdAt": "2024-03-27T14:57:24.000+00:00",
+      "updatedAt": "2024-03-27T14:57:24.000+00:00",
+      "supplierId": 1,
+      "category": {
+        "id": 2,
+        "name": "Office supplies"
+      },
+      "productPrice": [
+        {
+          "id": 4,
+          "productId": 4,
+          "currencyId": 1,
+          "price": "29.99",
+          "unitOfMeasureId": 1,
+          "quantity": 100,
+          "enabled": 1,
+          "createdAt": "2024-03-27T14:57:24.000+00:00",
+          "updatedAt": "2024-03-27T14:57:24.000+00:00"
+        }
+      ],
+      "productDescription": [
+        {
+          "id": 4,
+          "productId": 4,
+          "languageId": 2,
+          "listerDescription": "Keep your office printer running smoothly with our high-quality ink cartridges. Designed for reliable performance and consistent results, our ink cartridges deliver exceptional print quality and clarity. Whether you're printing documents, photos, or other materials, our ink cartridges ensure that your work looks its best.",
+          "shortDescription": "High-quality ink cartridges for reliable performance and exceptional print quality.",
+          "longDescription": "Maximize the performance of your office printer with our high-quality ink cartridges. Engineered for reliability and consistency, our ink cartridges deliver exceptional print quality and clarity, ensuring that your documents, photos, and other materials look their best. The advanced ink formula provides vibrant colors and sharp details, making your work stand out with professional-grade results. Whether you're printing reports, presentations, or marketing materials, our ink cartridges offer the perfect combination of performance and value. Keep your office printer running smoothly and produce outstanding printouts with our premium ink cartridges.",
+          "enabled": 1,
+          "createdAt": "2024-03-27T14:57:24.000+00:00",
+          "updatedAt": "2024-03-27T14:57:24.000+00:00"
+        }
+      ],
+      "supplier": {
+        "id": 1,
+        "accountId": 2,
+        "firstname": "Anke",
+        "lastname": "Hazen",
+        "email": "account@supplier.com",
+        "phoneNumber": "0495/12.34.56",
+        "enabled": null,
+        "createdAt": "2024-03-27T14:57:24.000+00:00",
+        "updatedAt": "2024-03-27T14:57:24.000+00:00"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Printer",
+      "unitOfMeasureId": 1,
+      "categoryId": 3,
+      "productAvailability": 0,
+      "imageUrl": "https://www.canon.ca/dam/products/BUSINESS-UNIT/BICG/DX-Model-Images/C3700i_MainUnit.png",
+      "enabled": 1,
+      "createdAt": "2024-03-27T14:57:24.000+00:00",
+      "updatedAt": "2024-03-27T14:57:24.000+00:00",
+      "supplierId": 1,
+      "category": {
+        "id": 3,
+        "name": "Office electronics"
+      },
+      "productPrice": [
+        {
+          "id": 5,
+          "productId": 5,
+          "currencyId": 1,
+          "price": "299.99",
+          "unitOfMeasureId": 1,
+          "quantity": 50,
+          "enabled": 1,
+          "createdAt": "2024-03-27T14:57:24.000+00:00",
+          "updatedAt": "2024-03-27T14:57:24.000+00:00"
+        }
+      ],
+      "productDescription": [
+        {
+          "id": 5,
+          "productId": 5,
+          "languageId": 2,
+          "listerDescription": "Upgrade your office with our high-performance printer. Designed for speed, efficiency, and quality, this printer delivers exceptional results for all your printing needs. Whether you're producing reports, marketing materials, or other documents, our printer offers the perfect combination of performance and reliability.",
+          "shortDescription": "High-performance printer for speed, efficiency, and quality printing.",
+          "longDescription": "Elevate your office printing experience with our high-performance printer. Engineered for speed, efficiency, and quality, this printer delivers exceptional results for all your printing needs. The fast printing speed ensures that you can produce documents, reports, and marketing materials with ease and efficiency. The advanced printing technology provides crisp, clear, and vibrant results, making your work stand out with professional-grade quality. Whether you're printing text, images, or graphics, our printer offers the perfect combination of performance and reliability. Upgrade your office with our high-performance printer and experience the difference in speed, efficiency, and quality.",
+          "enabled": 1,
+          "createdAt": "2024-03-27T14:57:24.000+00:00",
+          "updatedAt": "2024-03-27T14:57:24.000+00:00"
+        }
+      ],
+      "supplier": {
+        "id": 1,
+        "accountId": 2,
+        "firstname": "Anke",
+        "lastname": "Hazen",
+        "email": "account@supplier.com",
+        "phoneNumber": "0495/12.34.56",
+        "enabled": null,
+        "createdAt": "2024-03-27T14:57:24.000+00:00",
+        "updatedAt": "2024-03-27T14:57:24.000+00:00"
+      }
+    }
+  ],
+  "meta": {
+    "total": 5,
+    "perPage": 5,
+    "currentPage": 1,
+    "lastPage": 1,
+    "firstPage": 1,
+    "firstPageUrl": "/?page=1",
+    "lastPageUrl": "/?page=1",
+    "nextPageUrl": "/?page=1",
+    "previousPageUrl": null
+  }
+}

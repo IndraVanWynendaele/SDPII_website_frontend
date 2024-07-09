@@ -1,0 +1,29 @@
+.profielTitel {
+  font-family: Koulen;
+  font-size: 20px;
+  color: black;
+}
+
+.profielImage {
+  width: 100%;
+}
+
+.icon {
+  margin-bottom: 5px;
+  margin-left: 5px;
+}
+
+.marginButton {
+  margin-bottom: 20px;
+  margin-right: 20px;
+}
+
+.gridItemProfile {
+  margin: 20px !important;
+  max-width: 300px;
+}
+
+.profileButton{
+  width: 200px !important;
+  margin-top: 20px !important;
+}

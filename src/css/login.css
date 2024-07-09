@@ -1,0 +1,34 @@
+@import url("colors.css");
+
+.MuiAvatar-colorDefault {
+  background-color: var(--bg-color) !important;
+}
+
+.login {
+  max-width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-right: 20px;
+}
+
+.slotje {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.hoofding {
+  margin: 0px !important;
+}
+
+.linkregister {
+  text-decoration: none;
+  color: var(--bg-color);
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.maxWidth {
+  max-width: 400px;
+}

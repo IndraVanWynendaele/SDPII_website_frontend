@@ -1,0 +1,70 @@
+@import url("colors.css");
+
+.gridItem {
+  margin: 1px;
+}
+.img {
+  width: 128px;
+  height: 128px;
+}
+.products {
+  padding: 20px;
+}
+.hoofding {
+  margin: 20px;
+}
+.paper {
+  width: 300px;
+  margin: 10px;
+}
+.groepje {
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+.order {
+  margin-top: 20px;
+  margin-bottom: 0px;
+}
+.rechts {
+  position: absolute;
+  right: 0;
+}
+.mr {
+  margin-right: 15px;
+}
+.linkUuid {
+  color: black;
+  text-decoration: none;
+}
+.linkUuid:hover {
+  color: var(--bg-color);
+  font-weight: bold;
+  text-decoration: none;
+}
+.paginatoion {
+  margin-top: 20px;
+}
+.paginationcentreren {
+  display: flex;
+  justify-content: center;
+}
+.orderGrid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.mt {
+  margin-top: 20px !important;
+}
+
+.marginButton {
+  margin: 10px;
+}
+.Unpaid {
+  color: red;
+}
+.Paid {
+  color: green;
+}

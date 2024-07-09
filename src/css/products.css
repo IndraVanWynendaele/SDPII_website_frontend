@@ -1,0 +1,114 @@
+@import url("colors.css");
+
+.product {
+  padding: 10px;
+  margin: 0px 10px;
+  width: 400px;
+  height: 90%;
+}
+
+.productenGrid {
+  min-height: 20px;
+  width: auto;
+}
+
+.productImg {
+  width: 128px;
+  height: 128px;
+}
+
+.productenBox {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.productenPaginas {
+  bottom: 0;
+  margin-bottom: 35px;
+}
+
+.productencentreren {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding-top: 50px;
+}
+
+.filter {
+  width: 200px;
+  margin-left: auto;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+.flex {
+  display: flex-end;
+}
+
+.filters {
+  display: grid;
+  grid-template-columns: 1fr auto auto;
+}
+
+.detail_product {
+  padding: 20px;
+  margin: 40px;
+  width: auto;
+}
+
+.detail_productImg {
+  margin: auto;
+}
+
+.detail_tekst {
+  margin: 10px !important;
+}
+
+.detailName {
+  text-align: center;
+  font-size: x-large !important;
+}
+
+.detail_image {
+  margin: auto;
+  width: 228px;
+  height: 228px;
+}
+
+.cart {
+  margin-left: auto !important;
+}
+
+.cartimg {
+  margin: 10px;
+  width: 30px;
+  height: 30px;
+}
+
+.delawareButton {
+  background-color: var(--bg-color) !important;
+  color: white !important;
+}
+
+.rood {
+  color: var(--bg-color);
+}
+
+.marginButton {
+  margin-right: 20px !important;
+  margin-left: 130px !important;
+}
+
+.alignRight{
+  text-align: right !important;
+  align-items: end !important;
+  justify-content: right !important;
+  justify-self: right !important;
+  align-self: flex-end !important;
+  align-content: flex-end !important;
+}
+
+.filterButton {
+  
+}

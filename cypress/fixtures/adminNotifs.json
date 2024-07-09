@@ -1,0 +1,87 @@
+{
+  "notifications": [
+    {
+      "id": 17,
+      "accountId": 2,
+      "type": "supplier",
+      "text": "Account edit requested",
+      "data": {
+        "city": "Aalst",
+        "name": "ODNALAZ",
+        "email": "account@supplier.com",
+        "phone": "0495/12.34.56",
+        "sector": "IT",
+        "street": "Arbeidstraat",
+        "country": "BE",
+        "zipcode": "9300",
+        "lastname": "testtest",
+        "streetNr": "13",
+        "firstname": "test",
+        "image_url": "https://i.imgur.com/KKZizZr.png",
+        "vat_number": "BE1234567"
+      },
+      "from": 2,
+      "received": 1,
+      "seen": 0,
+      "notificationTypeId": 2,
+      "createdAt": "2024-03-27T23:27:41.000+00:00",
+      "updatedAt": "2024-03-27T22:30:53.000+00:00",
+      "deletedAt": null,
+      "fromAccount": {
+        "name": "AuroraTech",
+        "id": 2
+      },
+      "notificationType": {
+        "name": "Account Edit",
+        "id": 2
+      }
+    },
+    {
+      "id": 16,
+      "accountId": 2,
+      "type": "supplier",
+      "text": "Account edit requested",
+      "data": {
+        "city": "Aalst",
+        "name": "ODNALAZ",
+        "email": "account@supplier.com",
+        "phone": "0495/12.34.56",
+        "sector": "IT",
+        "street": "Arbeidstraat",
+        "country": "BE",
+        "zipcode": "9300",
+        "lastname": "testtest",
+        "streetNr": "13",
+        "firstname": "test",
+        "image_url": "https://i.imgur.com/KKZizZr.png",
+        "vat_number": "BE1234567"
+      },
+      "from": 2,
+      "received": 1,
+      "seen": 0,
+      "notificationTypeId": 2,
+      "createdAt": "2024-03-27T23:27:30.000+00:00",
+      "updatedAt": "2024-03-27T22:30:53.000+00:00",
+      "deletedAt": null,
+      "fromAccount": {
+        "name": "AuroraTech",
+        "id": 2
+      },
+      "notificationType": {
+        "name": "Account Edit",
+        "id": 2
+      }
+    }
+  ],
+  "meta": {
+    "total": 5,
+    "perPage": 2,
+    "currentPage": 1,
+    "lastPage": 3,
+    "firstPage": 1,
+    "firstPageUrl": "/?page=1",
+    "lastPageUrl": "/?page=3",
+    "nextPageUrl": "/?page=2",
+    "previousPageUrl": null
+  }
+}

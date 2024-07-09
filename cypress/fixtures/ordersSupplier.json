@@ -1,0 +1,147 @@
+{
+  "meta": {
+    "total": 3,
+    "perPage": 5,
+    "currentPage": 1,
+    "lastPage": 1,
+    "firstPage": 1,
+    "firstPageUrl": "/?page=1",
+    "lastPageUrl": "/?page=1",
+    "nextPageUrl": null,
+    "previousPageUrl": null
+  },
+  "data": [
+    {
+      "uuid": "uujxb6kninltueudlz6so5w7",
+      "supplierId": 1,
+      "createdAt": "2024-03-27T22:24:31.000+00:00",
+      "updatedAt": "2024-03-27T22:24:31.000+00:00",
+      "deletedAt": null,
+      "orderStatusId": 1,
+      "paymentStatusId": 1,
+      "orderStatus": {
+        "id": 1,
+        "status": "Open"
+      },
+      "order": {
+        "uuid": "v21o649myuoxrgk8lbtte2i7",
+        "accountId": 2,
+        "currencyId": 1,
+        "billingAddressStreet": "Arbeidstraat",
+        "billingAddressZipcode": "9300",
+        "billingAddressCountry": "Belgium",
+        "billingAddressStreetNr": "14",
+        "billingAddressCity": "Aalst",
+        "shippingAddressStreet": "Arbeidstraat",
+        "shippingAddressZipcode": "9300",
+        "shippingAddressCountry": "Belgium",
+        "shippingAddressStreetNr": "14",
+        "shippingAddressCity": "Aalst",
+        "vatType": "B2B",
+        "remark": null,
+        "paymentPeriod": "30 days",
+        "enabled": null,
+        "createdAt": "2022-08-26T00:00:00.000+00:00",
+        "updatedAt": "2024-03-27T22:24:31.000+00:00",
+        "paymentStatusId": 1,
+        "orderStatusId": 1,
+        "account": {
+          "name": "AuroraTech",
+          "id": 2
+        },
+        "paymentStatus": {
+          "id": 1,
+          "status": "Unpaid"
+        }
+      }
+    },
+    {
+      "uuid": "tiqqrk4s1hiz6vy51h8vkinm",
+      "supplierId": 1,
+      "createdAt": "2024-03-27T22:24:31.000+00:00",
+      "updatedAt": "2024-03-27T22:24:31.000+00:00",
+      "deletedAt": null,
+      "orderStatusId": 2,
+      "paymentStatusId": 2,
+      "orderStatus": {
+        "id": 2,
+        "status": "In Progress"
+      },
+      "order": {
+        "uuid": "e51q0ck8basoeraa2i6xsge3",
+        "accountId": 2,
+        "currencyId": 1,
+        "billingAddressStreet": "Arbeidstraat",
+        "billingAddressZipcode": "9300",
+        "billingAddressCountry": "Belgium",
+        "billingAddressStreetNr": "14",
+        "billingAddressCity": "Aalst",
+        "shippingAddressStreet": "Arbeidstraat",
+        "shippingAddressZipcode": "9300",
+        "shippingAddressCountry": "Belgium",
+        "shippingAddressStreetNr": "14",
+        "shippingAddressCity": "Aalst",
+        "vatType": "B2B",
+        "remark": null,
+        "paymentPeriod": "30 days",
+        "enabled": null,
+        "createdAt": "2023-01-01T00:00:00.000+00:00",
+        "updatedAt": "2024-03-27T22:24:31.000+00:00",
+        "paymentStatusId": 2,
+        "orderStatusId": 2,
+        "account": {
+          "name": "AuroraTech",
+          "id": 2
+        },
+        "paymentStatus": {
+          "id": 2,
+          "status": "Paid"
+        }
+      }
+    },
+    {
+      "uuid": "g0rg11tl4qmsstpeuj4jkh3i",
+      "supplierId": 1,
+      "createdAt": "2024-03-27T22:24:31.000+00:00",
+      "updatedAt": "2024-03-27T22:24:31.000+00:00",
+      "deletedAt": null,
+      "orderStatusId": 3,
+      "paymentStatusId": 1,
+      "orderStatus": {
+        "id": 3,
+        "status": "Finished"
+      },
+      "order": {
+        "uuid": "vib8rsqlev15aevfmq2nqpex",
+        "accountId": 2,
+        "currencyId": 1,
+        "billingAddressStreet": "Arbeidstraat",
+        "billingAddressZipcode": "9300",
+        "billingAddressCountry": "Belgium",
+        "billingAddressStreetNr": "14",
+        "billingAddressCity": "Aalst",
+        "shippingAddressStreet": "Arbeidstraat",
+        "shippingAddressZipcode": "9300",
+        "shippingAddressCountry": "Belgium",
+        "shippingAddressStreetNr": "14",
+        "shippingAddressCity": "Aalst",
+        "vatType": "B2B",
+        "remark": "Please deliver before 12:00",
+        "paymentPeriod": "30 days",
+        "enabled": null,
+        "createdAt": "2021-01-01T00:00:00.000+00:00",
+        "updatedAt": "2024-03-27T22:24:31.000+00:00",
+        "paymentStatusId": 1,
+        "orderStatusId": 3,
+        "account": {
+          "name": "AuroraTech",
+          "id": 2
+        },
+        "paymentStatus": {
+          "id": 1,
+          "status": "Unpaid"
+        }
+      }
+    }
+  ]
+}

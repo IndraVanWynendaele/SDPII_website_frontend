@@ -1,0 +1,50 @@
+{
+  "id": 1,
+  "name": "Chair",
+  "unitOfMeasureId": 1,
+  "categoryId": 1,
+  "productAvailability": 1,
+  "imageUrl": "https://www.gerowonen.be/media/39/25/df/1645550042/621519dac8c2b-V015-EVE-1018%20(2).png.png",
+  "enabled": 1,
+  "createdAt": "2024-03-27T14:57:24.000+00:00",
+  "updatedAt": "2024-03-27T14:57:24.000+00:00",
+  "supplierId": 1,
+  "productPrice": [
+    {
+      "id": 1,
+      "productId": 1,
+      "currencyId": 1,
+      "price": "99.99",
+      "unitOfMeasureId": 1,
+      "quantity": 10,
+      "enabled": 1,
+      "createdAt": "2024-03-27T14:57:24.000+00:00",
+      "updatedAt": "2024-03-27T14:57:24.000+00:00"
+    }
+  ],
+  "productDescription": [
+    {
+      "id": 1,
+      "productId": 1,
+      "languageId": 2,
+      "listerDescription": "Upgrade your workspace with our ergonomic office chair. Designed for comfort and productivity, this chair features adjustable lumbar support, padded armrests, and a breathable mesh backrest. Enhance your workday with superior comfort and support.",
+      "shortDescription": "Ergonomic office chair with adjustable lumbar support, padded armrests, and breathable mesh backrest for ultimate comfort and productivity.",
+      "longDescription": "Maximize your comfort and productivity with our ergonomic office chair. Crafted for long hours of sitting, this chair features adjustable lumbar support, padded armrests, and a breathable mesh backrest. The ergonomic design ensures that you can maintain proper posture and reduce strain on your back, neck, and shoulders. Whether you're working on important projects or catching up on emails, our office chair offers the perfect blend of comfort and support. Upgrade your workspace and enhance your workday with superior comfort and productivity.",
+      "enabled": 1,
+      "createdAt": "2024-03-27T14:57:24.000+00:00",
+      "updatedAt": "2024-03-27T14:57:24.000+00:00"
+    }
+  ],
+  "category": {
+    "id": 1,
+    "name": "Office furniture"
+  },
+  "supplier": {
+    "accountId": 2,
+    "id": 1,
+    "account": {
+      "name": "AuroraTech",
+      "id": 2
+    }
+  }
+}

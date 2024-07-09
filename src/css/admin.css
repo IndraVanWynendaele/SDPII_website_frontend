@@ -1,0 +1,76 @@
+@import url("colors.css");
+
+.homeButton {
+  font-family: "Koulen", sans-serif;
+  font-size: 24px;
+  height: 80px;
+  width: 150px;
+  color: black;
+  background-color: white;
+  border: 1px lightgray solid;
+}
+
+.homeButton:hover {
+  border-color: var(--bg-color);
+  color: var(--bg-color);
+}
+
+.linkdashboard {
+  text-decoration: none;
+  color: inherit;
+}
+
+.smallheaderdashboard {
+  color: rgba(0, 0, 0, 0.842);
+  margin: 7px;
+}
+
+.selected {
+  border-color: var(--bg-color);
+  color: var(--bg-color);
+  text-decoration: underline;
+}
+
+.link {
+  color: inherit;
+}
+
+.nopaddingheading {
+  padding: 0px !important;
+  margin: 10px 0px !important;
+}
+
+.centerheading {
+  text-align: center;
+}
+
+.editreviewpaper {
+  padding: 0px 20px;
+  margin-right: 20px;
+  max-width: 500px;
+}
+
+.leftheading {
+  text-align: left;
+  margin-bottom: 0px;
+}
+
+.nomargin {
+  margin-bottom: 0px;
+}
+
+.sameSize {
+  width: 300px;
+  margin-right: 30px !important;
+}
+
+.centerpaper {
+  align-items: center;
+  justify-content: center;
+
+}
+
+.centerpaperedit {
+  display: flex;
+  justify-content: center;
+}

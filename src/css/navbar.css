@@ -1,0 +1,31 @@
+.navbarWelkom {
+  margin: 20px;
+  text-align: center;
+}
+
+.logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.navlink {
+  width: 100%;
+  text-decoration: none;
+}
+
+.navbutton {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  color: black;
+}
+
+.type {
+  text-align: center;
+}
+
+.top-margin {
+  margin-top: 10px !important;
+}
